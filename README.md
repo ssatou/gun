@@ -159,7 +159,7 @@ To quickly spin up a Gun test server for your development team, utilize either [
 
 ### [Heroku](https://www.heroku.com/)
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/amark/gun)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/ssatou/gun)
 
 Or:
 
